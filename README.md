@@ -55,7 +55,7 @@ Thank you for being a part of the DeskPet community! Your support and feedback h
 # Usage
 To install the project, run the following command:
 ```python
-git clone HTTP://xxxx
+git clone https://github.com/FredaZero/DeskPet.git
 cd DeskPet
 cd app
 ```
