@@ -1,4 +1,4 @@
-# 🐾 DeskPet Features 🐾
+# 🐾 DeskPet-NoNo 🐾
 
 Welcome to DeskPet! Your interactive desktop companion is packed with fun and engaging features. Here's what DeskPet can do:
 
